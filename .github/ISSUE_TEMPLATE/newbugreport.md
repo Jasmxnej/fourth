@@ -1,10 +1,3 @@
----
-name: newBugReport
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
@@ -74,4 +67,3 @@ body:
         options:
             - label: I agree to follow this project's Code of Conduct 
             required: true
----
