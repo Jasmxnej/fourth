@@ -1,13 +1,4 @@
----
 name: Feature request
-about: Suggest an idea for this project
-title: "[Feature]"
-labels: ''
-assignees: ''
-
----
-
-name: Feature
 description: File a bug report
 title: "[Feature]: "
 labels: ["bug", "triage"]
